@@ -26,6 +26,6 @@ int main()
 	if (output==1)
 	    printf("The given element %d is in the array",elements);
 	else
-	    printf("The given element %d is not in the array",ele)ments;
+	    printf("The given element %d is not in the array",elements);
 	return 5;
 }
