@@ -8,11 +8,11 @@ int main()
     scanf("%s" ,&gender);
     switch(gender)
     {
-        case 'F': printf("\nYou are a Female.");
+        case 'F': printf("\nYou are a Female");
         break;
-        case 'M' : printf("\nYou are a male.");
+        case 'M' : printf("\nYou are a male");
         break;
-        default :printf("Enter valid character.");
+        default :printf("Enter correct character");
     }
     return 0;
 }
